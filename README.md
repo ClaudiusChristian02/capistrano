@@ -1,5 +1,5 @@
 
-# Capistrano: A deployment automation tool built on Ruby, Rake, and SSH.
+# Capistrano: is a deployment automation tool built on Ruby, Rake, and SSH.
 
 [![Gem Version](https://badge.fury.io/rb/capistrano.svg)](http://badge.fury.io/rb/capistrano) [![Build Status](https://travis-ci.org/capistrano/capistrano.svg?branch=master)](https://travis-ci.org/capistrano/capistrano) [![Code Climate](https://img.shields.io/codeclimate/github/capistrano/capistrano.svg)](https://codeclimate.com/github/capistrano/capistrano) <a href="http://codersclan.net/?repo_id=325&source=small"><img src="https://img.shields.io/badge/get-support-blue.svg"></a>
 
